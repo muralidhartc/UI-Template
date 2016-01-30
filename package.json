@@ -1,0 +1,26 @@
+{
+  "name": "UI-Template",
+  "version": "1.0.0",
+  "description": "Root Template for UI Apps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muralidhartc/UI-Template.git"
+  },
+  "keywords": [
+    "UI",
+    "Template"
+  ],
+  "author": "muralidhartc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muralidhartc/UI-Template/issues"
+  },
+  "homepage": "https://github.com/muralidhartc/UI-Template",
+  "dependencies": {
+    "angular": "^1.4.9"
+  }
+}
